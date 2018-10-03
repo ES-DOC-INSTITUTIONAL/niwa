@@ -1,5 +1,8 @@
 {
     "ukesm1-0-ll": {
+        "toplevel": {
+            "initializedFrom": ""
+        }, 
         "aerosol": {
             "initializedFrom": ""
         }, 
@@ -19,9 +22,6 @@
             "initializedFrom": ""
         }, 
         "seaice": {
-            "initializedFrom": ""
-        }, 
-        "toplevel": {
             "initializedFrom": ""
         }
     }
